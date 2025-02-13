@@ -1,7 +1,7 @@
 # Text-summarizer
 # End to end Text-Summarizer-Project
 
-## Workflow
+## Workflows
 
 1. Update config.yaml
 2. Update params.yaml
